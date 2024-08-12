@@ -1,6 +1,6 @@
 # British-Airways-Virtual-Internship-Forage-Data-Science
 
-![British airway logo](https://c8.alamy.com/comp/2M8N9BN/british-airways-logo-white-background-2M8N9BN.jpg)
+![British airway logo](https://1000logos.net/wp-content/uploads/2016/10/British-Airways-Logo.png)
 
 
 ## Task 1: Web Scraping and Sentiment Analysis of Customer Reviews
