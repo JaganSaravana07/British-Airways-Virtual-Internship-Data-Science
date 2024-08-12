@@ -2,6 +2,7 @@
 
 ![British airway logo](https://user-images.githubusercontent.com/68168071/208015626-505dc939-4551-4ccc-a60e-18827d60bf66.png)
 
+The online British Airways internship opportunity through Forage aims to advance your skills to fit you in the right career. The short span of the internship will provide you an advantage to work with the world’s top-notch professionals and learn to improve your profiles. The internship opportunities granted by Forage are always free of cost for everyone because its partner companies aim to ensure equity, diversity, and accessibility to all. With the aim of investing in the fleet, transforming the experiences, and expanding the global network, Forage is providing you with a dynamic, and fast-paced working setup that will harness your potential to succeed and bring out the best in you. You will get the chance to play with real data and actual business applications, to be used for machine algorithms.
 
 ## Task 1: Web Scraping and Sentiment Analysis of Customer Reviews
 In this task, we will be utilizing web scraping techniques to extract unstructured data, specifically customer reviews, from the British Airways review page on the website [airlinequality.com](https://www.airlinequality.com/airline-reviews/british-airways). Once the data has been successfully gathered, we will perform sentiment analysis to categorize the reviews into positive and negative sentiments. This will enable us to gain insights into the overall customer satisfaction and identify common themes among the positive and negative feedback.
