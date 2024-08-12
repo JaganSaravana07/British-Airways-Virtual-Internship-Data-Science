@@ -13,4 +13,4 @@ In this task, we will focus on developing a classification model aimed at predic
 
 The results of this predictive analysis, along with the performance metrics of the classification model, will be compiled into a detailed PowerPoint presentation. This presentation will illustrate the modeling process, highlight key insights, and showcase the practical applications of the model in predicting customer buying behavior. The goal is to provide a clear understanding of the factors driving customer purchases and how the model can be used to improve business strategies.
 
-### Course Completion Certificate: [Click Here]()
+#### Course Completion Certificate: [Click Here](https://github.com/JaganSaravana07/British-Airways-Virtual-Internship-Data-Science/blob/main/British%20Airways_completion_certificate.pdf)
